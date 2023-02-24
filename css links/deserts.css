@@ -1,0 +1,49 @@
+*{
+    color: rgb(0, 0, 0);
+    padding-left: 1rem;
+    
+}
+body{
+     background-image: url("images.png/pexels-lisa-fotios-230325.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+section{
+    border: 2px solid rgba(173, 156, 130, 0.667);
+    border-radius: 1rem;
+    max-width: 400px;
+    max-height: 2000px;
+    font-size: 1rem;
+    line-height: 2rem;
+    background-color: rgba(223, 211, 191, 0.664);
+    padding:1rem ;
+    
+    
+}
+nav{
+    border: 2px solid rgba(173, 156, 130, 0.514);
+    border-radius: 1rem;
+    margin: 0 auto 1rem;
+    max-width: 600px;
+    max-height: 500px;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    background-color: rgba(223, 211, 191, 0.911);
+    padding:.25rem ;
+    justify-content: center;
+    display: grid;
+    
+}
+h1{
+    font-size: 70px;
+    justify-content: middle;
+    padding: 0 0 0 69.69rem;
+}
+
+h5{
+    font-size: 40px;
+    justify-content: center;
+    display: grid;
+}
